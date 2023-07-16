@@ -1,1 +1,1 @@
-# Gallery2
+# myGallery
